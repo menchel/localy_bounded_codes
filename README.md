@@ -1,4 +1,7 @@
 # localy_bounded_codes
+
+Code for project in Coding and algorithms for memories course (236379) at the Technion.
+
 This is a python code for calculating the amount of vectors of size n, that are (l,delta) localy bounded. That is, that every window of size l has a weight of at most l/2-delta.
 Using the code is done as follows:
 1) you enter the n value
